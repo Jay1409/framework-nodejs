@@ -1,4 +1,4 @@
-ar https = require('https');
+var https = require('https');
 var optionsget = {
 host : 'localhost', // here only the domain name
 // (no http/https !)
