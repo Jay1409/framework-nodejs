@@ -1,0 +1,9 @@
+.hero{
+	width:100% ;
+	height:100vh ;
+	background-image:url(Clean_minimal_business_card_Vol_320.jpg);
+	background-size: cover;
+	background-position: center;
+	position : relative;
+	overflow: hidden ;
+}
